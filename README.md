@@ -6,11 +6,11 @@
 - [ ] Балюк 
 - [x] [Баратов](https://github.com/g0do4/demoEx)
 - [x] [Браславский](https://github.com/SayRiin/DataBase)
-- [ ] Бураков
-- [ ] Вдовин
+- [x] [Бураков](https://github.com/LeXa4er/demo_ekzamen)
+- [ ] Вдовин https://github.com/vdovin-stanislav/StoreDB-Vdovin
 - [x] [Вощевоз](https://github.com/alexandra3778/sandra)
 - [x] [Иванов](https://github.com/MaxIvanych171/tenantsDB)
-- [ ] Калинин
+- [x] [Калинин](https://github.com/skyline1111111111/baseTest)
 - [x] [Король](https://github.com/ViKQueen/premises_agent)
 - [x] [Кучеровский](https://github.com/Cookie37r/Kucherovsky-DB)
 - [x] [Литвинов](https://github.com/Zipprey12/DEMO-EX)
