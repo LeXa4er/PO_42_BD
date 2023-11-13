@@ -7,7 +7,7 @@
 - [x] [Баратов](https://github.com/g0do4/demoEx)
 - [x] [Браславский](https://github.com/SayRiin/DataBase)
 - [x] [Бураков](https://github.com/LeXa4er/demo_ekzamen)
-- [ ] [Вдовин](https://github.com/vdovin-stanislav/StoreDB-Vdovin)
+- [x] [Вдовин](https://github.com/vdovin-stanislav/StoreDB-Vdovin)
 - [x] [Вощевоз](https://github.com/alexandra3778/sandra)
 - [x] [Иванов](https://github.com/MaxIvanych171/tenantsDB)
 - [x] [Калинин](https://github.com/skyline1111111111/baseTest)
