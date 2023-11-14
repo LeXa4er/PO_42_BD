@@ -3,7 +3,7 @@
 
 
 - [x] [Аникин](https://github.com/MRXTOOR/db_for_books) 
-- [ ] Балюк 
+- [x] [Балюк](https://github.com/repeter513/TaxDB)
 - [x] [Баратов](https://github.com/g0do4/demoEx)
 - [x] [Браславский](https://github.com/SayRiin/DataBase)
 - [x] [Бураков](https://github.com/LeXa4er/demo_ekzamen)
