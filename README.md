@@ -16,7 +16,7 @@
 - [x] [Литвинов](https://github.com/Zipprey12/DEMO-EX)
 - [x] [Луц](https://github.com/asata-squad/hospitalLuts)
 - [x] [Мигель](https://github.com/aacarmael/demoDB)
-- [ ] Мушаров
+- [x] [Мушаров](https://github.com/TyomaDev/demotest)
 - [x] [Пашков](https://github.com/floppy61/demo2023)
 - [x] [Петров](https://github.com/VLoneB/DemoDB)
 - [x] [Салтыков](https://github.com/RLD666/PO-42-Saltykov)
