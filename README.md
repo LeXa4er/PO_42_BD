@@ -21,5 +21,5 @@
 - [x] [Петров](https://github.com/VLoneB/DemoDB)
 - [x] [Салтыков](https://github.com/RLD666/PO-42-Saltykov)
 - [ ] Сафян
-- [ ] Фролов
+- [x] [Фролов](https://github.com/QuakeShots/BASE1)
 - [x] [Чувелев](https://github.com/Buldojik/-)
